@@ -77,6 +77,11 @@ header {
     border: 2px solid grey;
 }
 
+.everythingElseContent{
+    display: flex;
+    flex-direction: column;
+}
+
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
