@@ -34,11 +34,34 @@ body{
 /* LAYOUT
 /*******************************************/
 header {
-
+    display: flex;
+    height: 10%;
+    width: 100%;
+    border: 2px solid green;
 }
 
-footer {
+.TwoLinks{
+    height: 100%;
+    width: 40%;
+    border: 2px solid black;
+}
 
+.Logo{
+    height: 100%;
+    width: 30%;
+    border: 2px solid red;
+}
+
+.list{
+    height: 100%;
+    width: 30%;
+    border: 2px solid blue;
+}
+
+.mainSec{
+    height: 100%;
+    width: 100%;
+    border: 2px solid teal;
 }
 
 /******************************************
