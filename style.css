@@ -66,6 +66,7 @@ header {
 }
 
 .image{
+    margin-top: 5%;
     height: 100%;
     width: 50%;
     border: 2px solid gold;
@@ -80,8 +81,24 @@ header {
 .everythingElseContent{
     display: flex;
     flex-direction: column;
+    margin-top: 30%;
 }
 
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+#LogoImage{
+    height: 100%;
+    width: 100%;
+}
+
+#imageLarge{
+    height: 70%;
+    width: 70%;
+}
+
+#leftLinks{
+    height: 100%;
+    width: 100%;
+}
