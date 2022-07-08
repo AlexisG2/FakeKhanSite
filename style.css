@@ -59,9 +59,22 @@ header {
 }
 
 .mainSec{
+    display: flex;
     height: 100%;
     width: 100%;
     border: 2px solid teal;
+}
+
+.image{
+    height: 100%;
+    width: 50%;
+    border: 2px solid gold;
+}
+
+.everythingElse{
+    height: 100%;
+    width: 50%;
+    border: 2px solid grey;
 }
 
 /******************************************
